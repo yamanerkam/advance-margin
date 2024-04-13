@@ -1,0 +1,16 @@
+.a {
+    width: 250px;
+    height: 250px;
+    opacity: .5;
+    background-color: rgb(11, 96, 170);
+    margin: 0 auto;
+}
+
+.b {
+    width: 250px;
+    height: 250px;
+    opacity: .6;
+    background-color: rgb(135, 52, 52);
+    margin-top: -200px;
+    margin-left: -5px;
+}
